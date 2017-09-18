@@ -5,6 +5,7 @@
 • Get set up on Github
 • Get set up on Trello
 • Make the template for your first website
+• Get your CV website hosted on Github!
 ```
 
 
@@ -39,7 +40,7 @@ Everything we teach you to do with Website Development will be on here:
 
 All tags that open need to finish with with a closing tag
 ```html
-<p> . . . </p> //the </p> is the closing tag
+<p> . . . </p> <!--the </p> is the closing tag-->
 ```
 
 Everything should go inside the body tag
@@ -59,13 +60,13 @@ Everything should go inside the body tag
 
 ### Step 2
 - Include the following:
-    - Different types of headings (h1, h2)
-    - <img>
-    - <p>
+    - Different types of headings `<h1>`, `<h2>`, `<h3>` etc.
+    - `<img>`
+    - `<p>`
     - Make sure that you page looks nice, and that your text is readable
     - Change the color of the text
 
-### How to hand in your Homework:
+### How to hand in your Homework :octocat: :
 _Steps_:
 1. In your newly created Github account search for the invitation from the Social Hackers Academy organization to you join your classes team.
 2. Create a new repository (name it something like sha-html-css) make sure you select the option: initialize with README.

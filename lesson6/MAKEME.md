@@ -1,0 +1,1 @@
+## Homework to be done before the seventh lecture
