@@ -8,6 +8,7 @@ We will focus on _responsive_ web development: you will learn how to make your w
 
 >Please get yourself familiar with this repository by navigating your way through the different README files. Kind note: make sure to read assignment requirements properly for handing them in, in the end this saves both you and your teacher a lot of time. If you have any questions or something is not entirely clear ¯\\\_(ツ)_/¯, please ask/comment on Slack!
 
+
 ## Learning goals for this module:
 • Basic understanding of HTML and CSS
 • Know how to organize your files
