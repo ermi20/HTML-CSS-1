@@ -1,11 +1,20 @@
+# Lesson 1
 
 ## What we will do in class today:
 ```
 • Get set up on Slack
 • Get set up on Github
 • Get set up on Trello
-• Make the template for your first website
-• Get your CV website hosted on Github!
+• The division of labor between HTML and CSS
+• Introduction to HTML:
+    • Parents, children, attributes
+    • Indentation
+    • Semantic elements
+    • Paragraphs, links, images, lists
+• Introduction to CSS:
+    • Where can we write it and what difference does that make?
+    • Selectors (id, class, element type), properties
+• Get your CV website hosted on Github pages!
 ```
 
 
@@ -76,7 +85,7 @@ _Steps_:
 6. Open the files in your folder to check if all of this worked.
 7. Now go to the settings of your repository:![settings overview](./assets/github_pages1.png)
 8. And go to _Github Pages_ select "master" instead of "none"![pages overview](./assets/github_pages2.png)
-9. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_/hyf-html-css/lesson1/
+9. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_/sha-html-css/lesson1/
 10. Please upload a link to your homework in Trello.
 
 ### Here is an example of how your homework repository should look:
