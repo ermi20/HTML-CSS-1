@@ -8,10 +8,6 @@
 • Recap CSS:
     • Where can we write it and what difference does that make?
     • Selectors (id, class, element type), properties
-• Introduction to ARIA:
-    • What is ARIA and why is it important?
-    • Using ARIA in HTML
-    • Validating ARIA
 • How to work with the inspector
 • Carry on developing your websites
 ```
