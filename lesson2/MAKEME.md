@@ -10,7 +10,7 @@ In the third lecture we will talk about the following topics:
 ### Step 1: Complete the following sections in KhanAcademy
 
 - Intro to CSS:
-https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics
+https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden
 - More HTML Tags
 https://www.khanacademy.org/computing/computer-programming/html-css#html-tags-continued
 
