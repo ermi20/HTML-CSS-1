@@ -1,5 +1,10 @@
 ## Homework to be done before the fifth lecture
 
+```
+In the fifth lecture we will talk about the following topics:
+• Flexbox
+```
+
 ### Step 1: Finish your float grid
 - Use CSS to style it 
 - Make sure you meet all the requirement for the different screen sizes.

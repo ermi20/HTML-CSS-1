@@ -1,5 +1,11 @@
 ## Homework to be done before the sixth lecture
 
+```
+In the sixth lecture we will talk about the following topics:
+• We will talk about problem solving
+• More about responsive web design 
+```
+
 ## Step 1: Exercises
  - Continue with CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
 

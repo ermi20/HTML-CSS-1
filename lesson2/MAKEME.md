@@ -1,5 +1,12 @@
 ## Homework to be done before the third lecture
 
+```
+In the third lecture we will talk about the following topics:
+• How to find information on the web
+• Answer/fix last CV questions
+• Show off your websites!
+```
+
 ### Step 1: Complete the following sections in KhanAcademy
 
 - Intro to CSS:

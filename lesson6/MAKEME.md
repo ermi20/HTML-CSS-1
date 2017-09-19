@@ -1,5 +1,11 @@
 ## Homework to be done before the seventh lecture
 
+```
+In the next lecture we will talk about the following topics:
+• Introduction to JavaScript
+• Introduction to the command line
+```
+
 ## Step 1: Exercises
  - Finish CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
 

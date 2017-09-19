@@ -1,5 +1,14 @@
 ## Homework to be done before the fourth lecture
 
+```
+In the fourth lecture we will talk about the following topics:
+• Responsive web development
+    • Relative measurements (%, (r)em, vw)
+    • Media queries
+    • Positioning (absolute, relative, fixed)
+    • Floating and clearing
+```
+
 ### Step 1: Complete the following section in KhanAcademy
 
 - https://www.khanacademy.org/computing/computer-programming/html-css#more-css-selectors

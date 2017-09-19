@@ -2,7 +2,7 @@
 
 ## What we will do in class today:
 ```
- • Responsive web development
+• Responsive web development
     • Relative measurements (%, (r)em, vw)
     • Media queries
     • Positioning (absolute, relative, fixed)
