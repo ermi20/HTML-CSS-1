@@ -1,3 +1,5 @@
+# Lesson 5
+
 ## What we will do in class today:
 ```
 • Flexbox
@@ -6,7 +8,7 @@
 ## Drones!
 Today we will implement the second section of the drone grid with flexbox 
 
-## At the end of the day you will upload you page in Github
+## At the end of the day you will upload you page in Github :octocat:
 Check if you have met all the requirements
 - Grids exercise
     - Download the HTML and images in the folder Homework 2

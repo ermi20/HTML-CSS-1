@@ -21,7 +21,6 @@ We will focus on _responsive_ web development: you will learn how to make your w
 • Get an understanding of where to find information on the web
 • Give receive/feedback from/on fellow students
 • Presenting and explaining your work to others
-
 ```
 
 Our program and courses are based on the curriculum created by [HackYourFuture](https://github.com/HackYourFuture/curriculum)
