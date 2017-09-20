@@ -36,7 +36,6 @@ It should include:
     - `<p>`
     - Some CSS properties: `margin`, `padding`
     - Make sure that you page looks nice, and that your text is readable & accessible (ARIA)
-- BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
 ## Extra extra (bonus assignment :star: ):
 
