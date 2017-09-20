@@ -9,23 +9,14 @@ In the third lecture we will talk about the following topics:
 
 ### Step 1: Complete the following sections in KhanAcademy
 
-- Intro to CSS:
-https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden
+- CSS Layout Properties
+https://www.khanacademy.org/computing/computer-programming/html-css#css-layout-properties
 - More HTML Tags
 https://www.khanacademy.org/computing/computer-programming/html-css#html-tags-continued
 
 ## Step 2: Read and watch
 #### Good learning practices
 Before you start check out this [video](http://www.learningscientists.org/videos/) and/or this [article](https://www.cultofpedagogy.com/learning-strategies/) about good learning practices.
-
-#### HTML5
-Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-
-#### CSS:
-- [CSS reference](http://cssreference.io/)
-- [MDN - Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
-- [CSS-tricks - CSS Properties](https://css-tricks.com/almanac/properties/)
-- [MDN - CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
 ## Step 3: Finish your CV
 It should include:
