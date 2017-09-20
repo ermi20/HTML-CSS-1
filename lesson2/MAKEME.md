@@ -29,23 +29,23 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
 ## Step 3: Finish your CV
 It should include:
-    - One page
-    - Two files: HTML and CSS
-    - Include the following:
-        - Your personal info (name, place of birth, etc.)
-        - A picture
-        - A few lines about who you are
-        - Education
-        - Work experience
-    - Include the following:
-        - Different types of headings (`<h1>`, `<h2>`)
-        - A list (`<ul>`). In this list include the _learning strategies_ you used making your resume. Also include some of the resources/references, this can be documentation/video etc, that where helpful.
-        - Another list (`<ul>`). In this list you include the most important platforms/resources where you can find all hyf related information.
-        - `<img>`
-        - `<p>`
-        - Some CSS properties: `margin`, `padding`
-        - Make sure that you page looks nice, and that your text is readable & accessible (ARIA)
-    - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
+- One page
+- Two files: HTML and CSS
+- Include the following:
+    - Your personal info (name, place of birth, etc.)
+    - A picture
+    - A few lines about who you are
+    - Education
+    - Work experience
+- Include the following:
+    - Different types of headings (`<h1>`, `<h2>`)
+    - A list (`<ul>`). In this list include the _learning strategies_ you used making your resume. Also include some of the resources/references, this can be documentation/video etc, that where helpful.
+    - Another list (`<ul>`). In this list you include the most important platforms/resources where you can find all hyf related information.
+    - `<img>`
+    - `<p>`
+    - Some CSS properties: `margin`, `padding`
+    - Make sure that you page looks nice, and that your text is readable & accessible (ARIA)
+- BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
 ## Extra extra (bonus assignment :star: ):
 

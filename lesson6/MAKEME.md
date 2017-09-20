@@ -7,13 +7,13 @@ In the next lecture we will talk about the following topics:
 ```
 
 ## Step 1: Exercises
- - Finish CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
+- Finish CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
 
 >This needs to be split up, it's a large course, should say: complete the following sections....
 
 ## Step 2: finish your assignment
 Make sure it meets the following criteria
- - Remake an existing responsive website: choose one of the following
+- Remake an existing responsive website: choose one of the following
    - https://www.rijksoverheid.nl
    - http://www.awwwards.com
    - https://www.bostonglobe.com
@@ -21,8 +21,8 @@ Make sure it meets the following criteria
    - http://muumilaakso.tampere.fi/en/
    - http://incredibletypes.com
    - http://thenextweb.com
- - It should have an external CSS file
- - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
+- It should have an external CSS file
+- BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
 
 ```

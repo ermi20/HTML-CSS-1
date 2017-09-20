@@ -12,6 +12,11 @@
 • Carry on developing your websites
 ```
 
+
+#### Some references
+- Nice reference about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- CSS [Zen Garden](http://www.csszengarden.com/)
+
 ## Carry on developing your CV's
 - Make sure it includes the following:
     - Your personal info (name, place of birth, etc.)

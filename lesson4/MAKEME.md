@@ -15,13 +15,13 @@ In the fifth lecture we will talk about the following topics:
 - Also take a look at this [website](http://mediaqueri.es) here you can find examples of responsive design.
 
 ### Step 3: Exercises
- - CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
+- CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
 
 >This needs to be split up, it's a large course, should say: complete the following sections....
 
 #### Super fun flexbox and grid practice 
- - [flexboxfroggy](https://flexboxfroggy.com/)
- - [cssgridgarden](http://cssgridgarden.com/)
+- [flexboxfroggy](https://flexboxfroggy.com/)
+- [cssgridgarden](http://cssgridgarden.com/)
 
 ```
 How to hand in your homework
