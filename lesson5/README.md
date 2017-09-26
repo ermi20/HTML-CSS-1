@@ -2,7 +2,11 @@
 
 ## What we will do in class today:
 ```
-• Flexbox
+• Spend the morning talking about the Float implementation of the below exercise
+• Guide students through the process of implementing the float excerise
+• Afternoon, move on to the Flexbox part of the exercise with a lecture about Flexbox
+    • Implement the 2 Top, Three Columns implementation
+• Homework, complete Flex part of the exercise. 
 ```
 
 ## Drones!
