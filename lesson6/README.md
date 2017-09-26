@@ -2,8 +2,12 @@
 
 ## What we will do in class today:
 ```
-• We will talk about problem solving
-• More about responsive web design 
+• Morning, talk about Flexbox homework
+• Talk about Absolute, Relative and Static positioning
+• Talk about Fixed Positions
+• Talk about problem solving
+• Introduce them to next weeks assignment
+
 ```
 
 ## How do web developers think?
