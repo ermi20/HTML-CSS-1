@@ -14,7 +14,7 @@
 ## Continue assignment
 Make sure it meets the following criteria
 - Remake an existing responsive website: choose one of the following
-   - https://www.rijksoverheid.nl
+   - https://www.theguardian.com
    - http://www.awwwards.com
    - https://www.bostonglobe.com
    - https://www.thinkwithgoogle.com
