@@ -24,7 +24,12 @@ Make sure it meets the following criteria
    - https://www.thinkwithgoogle.com
    - http://incredibletypes.com
    - http://thenextweb.com
-   - https://www.nytimes.com/section/travel
+   - https://www.nytimes.com/section/
+   
+   OR
+   
+   - http://tiffzhang.com/startup/index.html
+   
 - It should have an external CSS file
 - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
