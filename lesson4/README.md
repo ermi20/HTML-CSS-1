@@ -34,3 +34,6 @@ Today we will start working on the following assignment, we will only implement 
       - According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
 
 
+## Resources
+- Simple and more complex examples of nth-child selector http://nthmaster.com/
+
