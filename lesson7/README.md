@@ -25,9 +25,13 @@ Make sure it meets the following criteria
    - http://thenextweb.com
    - https://www.nytimes.com/section/
    
-   OR
+   OR if you want something a little easier
    
    - http://tiffzhang.com/startup/index.html
+   
+   OR if you want something with animations (HARD MODE)
+   
+   - https://www.boffi.com/en-ww/
    
 - It should have an external CSS file
 - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
