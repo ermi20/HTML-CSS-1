@@ -15,7 +15,7 @@
 2. Break the problem down into small steps
 3. Solve the small problem
 
-## Continue assignment
+## Our Assignment
 Make sure it meets the following criteria
 - Remake an existing responsive website: choose one of the following
    - https://www.theguardian.com
