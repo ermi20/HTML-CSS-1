@@ -6,12 +6,7 @@ In the next lecture we will talk about the following topics:
 • Introduction to the command line
 ```
 
-## Step 1: Exercises
-- Finish CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
-
->This needs to be split up, it's a large course, should say: complete the following sections....
-
-## Step 2: finish your assignment
+## Step 1: Start Your Assignment
 Make sure it meets the following criteria
 - Remake an existing responsive website: choose one of the following
    - https://www.rijksoverheid.nl
