@@ -3,7 +3,6 @@
 ## What we will do in class today:
 ```
 • Format a website by hand
-• Draw the website we just formatted
 • Talk about problem solving
 • Carry on with the websites that we've been working on
 
