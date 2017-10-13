@@ -1,0 +1,13 @@
+Watch this video:
+https://www.youtube.com/watch?v=Ukg_U3CnJWI
+
+Do these KhanAcademy:
+https://www.khanacademy.org/computing/computer-programming/programming#concept-intro
+https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming
+https://www.khanacademy.org/computing/computer-programming/programming#drawing-basics
+https://www.khanacademy.org/computing/computer-programming/programming#coloring
+https://www.khanacademy.org/computing/computer-programming/programming#variables
+
+*BONUS*
+Read:
+http://speakingjs.com/es5/ch01.html
