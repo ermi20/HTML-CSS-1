@@ -1,4 +1,4 @@
-1. Choose the correct HTML element for the largest heading:**
+1. Choose the correct HTML element for the largest heading:
 
 <h6>
 <head>
