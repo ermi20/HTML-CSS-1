@@ -1,15 +1,15 @@
 **3. Choose the correct HTML element for the largest heading:**
 
-  <h6>
-  <head>
-  <heading>
-  <h1>
+<h6>
+<head>
+<heading>
+<h1>
  
 **4. What is the correct HTML element for inserting a line break?**
 
-   <break>
-   <lb>
-   <br>
+<break>
+<lb>
+<br>
  
  **5. What is the correct HTML for adding a background color?**
 
