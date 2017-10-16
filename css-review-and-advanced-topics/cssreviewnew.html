@@ -1,0 +1,246 @@
+The division of labor between HTML and CSS
+• Introduction to HTML:
+    • Parents, children, attributes
+
+      div p <a id="help" class="links" name="Help" href="help.html">help</a>
+
+    • Indentation
+
+      <body>
+        <header>
+        </header>
+
+    • Semantic elements
+
+      <main>
+      <header>
+      <footer>
+      <article>
+      <section>
+      <aside>
+
+    • Paragraphs, links, images, lists
+
+      <p>, <a>, <img>, <ul><li></li></ul>, <ol>
+
+• Introduction to CSS:
+    • Where can we write it and what difference does that make?
+
+      inline
+      in <style> tag
+      in seperate file
+
+    • Selectors (id, class, element type), properties
+
+      #main, .article, div, [name="abstract"]
+      look at descendent selectors page
+
+• Get your CV website hosted on Github pages!
+
+      push repository
+
+
+---
+
+Recap HTML
+    • Basic HTML structure
+
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>
+        <meta>
+        <style>
+      <body>
+
+    • semantic elements HTML
+
+• Recap CSS:
+    • Where can we write it and what difference does that make?
+    • Selectors (id, class, element type), properties
+• How to work with the inspector
+
+
+---
+
+Which of these did we do?
+
+CSS transitions
+CSS animations with keyframes
+SVG *
+Drop down menu in CSS *
+flex-box
+
+---
+
+Responsive web development
+    • Relative measurements (%, (r)em, vw)
+
+      %, em (relative to current font size), rem (relative to root font size), vw, vh
+
+    • Media queries
+
+    @media screen {
+
+        body { font: 12px arial, sans-serif }
+        #nav { display: block }
+    }
+
+    @media screen and (max-width: 1000px) {
+
+        #content { width: 100% }
+    }
+
+    @media screen and (max-width: 800px) {
+
+         #nav { float: none }
+
+    }
+
+    @media screen and (orientation: landscape) {
+
+         #nav { float: left }
+    }
+
+    • Positioning (absolute, relative, fixed)
+
+    Sample Positions page; older page
+    consider fixed; left, right set to 0; width 100%
+
+    • Floating and clearing
+
+    Drones
+    templates
+    (several css templates)
+    https://www.sitepoint.com/easy-responsive-css-grid-layouts/
+    
+---
+
+    Flexbox
+
+    Drones
+
+    Native CSS Grid
+Afternoon, move on to the Flexbox part of the exercise with a lecture about Flexbox
+
+---
+
+Morning, talk about Flexbox homework
+• Talk about Absolute, Relative and Static positioning
+• Talk about Fixed Positions
+• Talk about problem solving
+• Introduce them to next weeks assignment
+
+---
+
+how to solve problems
+
+---
+
+Format a website by hand
+• Talk about problem solving
+
+---
+
+pretty/ugly code
+
+---
+
+Advanced topics
+
+transitions
+
+transforms
+
+https://robots.thoughtbot.com/transitions-and-transforms
+football page.
+
+background
+pseudo elements/classes
+
+adjacent selectors
+zebra
+football
+attribute selectors
+backgrounds
+gradients
+colors
+
+http://www.htmldog.com/guides/css/advanced/
+
+Additional topics:
+
+Comments
+  CSS
+  HTML
+
+HTML:
+
+Forms, buttons
+Events
+Content from other locations (eg. iframes)
+What is the head element for
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="30">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Free Web tutorials on HTML and CSS">
+
+HTML5-specific:
+
+Video
+Audio
+(source, etc.)
+Semantic tags
+parsing rules
+Math
+
+CSS
+
+Attribute selectors
+
+[name="Header"]
+
+Cheat Sheet:
+
+https://www.wpkube.com/html5-cheat-sheet/
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5
+
+---
+
+HTML5 Validation:
+
+https://validator.w3.org/nu/
+
+CSS3 Validation:
+
+http://jigsaw.w3.org/css-validator/
+
+ARIA
+
+Is the CSS Zen Garden fully accessible?
+Probably not. The markup is as semantic as possible and WAI-ARIA roles have been added where
+
+appropriate. The “A11y” link on the main Zen Garden page even used to point to automated tests
+
+that checked the Zen Garden’s markup for AAA/Section 508 compliance. It passed, but these
+
+validators are no longer available.
+
+But even with those measures, accessibility was not necessarily achieved. The WCAG guidelines
+
+contain multiple checkpoints which can not be tested automatically; they require a judgment
+
+call made by a human, not software. Many designs use techniques (hiding text from the browser,
+
+fonts sized with the px unit) which are by nature inaccessible, so the CSS of any particular
+
+design is as relevant as the markup when it comes to accessibility.
+
+In some cases and with certain designs, the Zen Garden may come close to achieving AAA
+
+compliance. But we can’t in good conscience say that the Zen Garden is a fully accessible
+
+site, since we now need such a long disclaimer.
+
+Accessible Rich Internet Applications (WAI-ARIA) 1.0
+Web Content Accessibility Guidelines (WCAG) 2.0

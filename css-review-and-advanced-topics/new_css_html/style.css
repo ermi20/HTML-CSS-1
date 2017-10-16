@@ -1,0 +1,35 @@
+li, span > span {
+  display: inline-block;
+  background-color: blue;
+  background-color: transparent;
+  min-width: 100px;
+  min-height: 100px;
+  overflow: visible;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /*overflow: visible;*/
+}
+span span:first-of-type {
+  /*border-color: brown !important;*/
+  background-image: url(image_ball.jpg);
+  /*border-width: 45px !important;
+  border-style: groove !important;*/
+}
+span span:nth-of-type(1):active:not(:hover) {
+  background-image: none;
+}
+/*li:active ~ li:hover, */span span:first-of-type:active ~ span:hover {
+  /*border-color: brown !important;*/
+  background-image: url(image_ball.jpg);
+  /*border-width: 45px !important;
+  border-style: groove !important;*/
+}
+span:last-child {
+  /*display: inline-block;*/
+  background-image: url(image_ball.jpg);
+  transition-property: transform;
+  transition-duration: 0.5s;
+}
+span:last-child:active:hover {
+  transform:translate(350px);
+}

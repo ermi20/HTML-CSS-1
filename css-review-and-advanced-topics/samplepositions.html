@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>sample positions</title>
+<style>
+  #absolute-page {
+    position: absolute;
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+
+    top: 500px;
+    left: 500px;
+  }
+
+  section.positioned {
+    position: relative;
+    width: 0;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    top: 100px;
+    left: 100px;
+  }
+
+/*  section.static {
+    width: 0;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    top: 100px;
+    left: 100px;
+  }*/
+
+  #absolute-container-p {
+    position: absolute;
+    background-color: green;
+    width: 500px;
+    height: 500px;
+
+    top: 100px;
+    left: 100px;
+  }
+
+/*  #absolute-container-s {
+    background-color: orange;
+    width: 500px;
+    height: 500px;
+
+    top: 100px;
+    left: 100px;
+  }*/
+
+  p {
+    position: relative;
+    top: 50px;
+    left: 50px;
+  }
+
+  section > div > div {
+    background-color: navy;
+    height: 50px;
+    left: 0;
+    right: 0;
+  }
+
+</style>
+</head>
+<body>
+  <div id="absolute-page">
+  </div>
+  <div id="relative">
+  </div>
+  <section id="positioned">
+    <div id="absolute-container-p">
+      <p>SOME TEXT relatively positioned</p>
+      <div></div>
+    </div>
+  </section>
+  <section id="static">
+    <div id="absolute-container-s">
+    </div>
+  </section>
+  <div id="relative">
+  </div>
+</body>
+</html>

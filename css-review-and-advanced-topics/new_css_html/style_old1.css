@@ -1,0 +1,99 @@
+/*
+span#one {
+  display: inline-block;
+  background-color: blue;
+  background-color: transparent;
+  width: 200px;
+  height: 200px;
+}
+span#two {
+  display: inline-block;
+  background-color: indigo;
+  background-color: transparent;
+  width: 200px;
+  height: 200px;
+}
+span#three {
+  display: inline-block;
+  background-color: orange;
+  background-color: transparent;
+  width: 200px;
+  height: 200px;
+}
+span#one:active {
+  background-color: blue;
+  border-color: brown;
+  border-width: 5px;
+  border-style: groove;
+}
+span#two:hover {
+  background-color: indigo;
+  border-color: brown;
+  border-width: 5px;
+  border-style: groove;
+}
+span#two:active {
+  border-color: brown;
+  border-width: 25px;
+  border-style: groove;
+}
+span#one:active + span#two:hover {
+  border-color: blue;
+  border-width: 45px;
+  border-style: groove;
+}
+span#three:hover {
+  background-color: orange;
+  border-color: brown;
+  border-width: 5px;
+  border-style: groove;
+}
+*/
+/*span#one:active ~ span#three:hover {
+  border-color: blue;
+  border-width: 45px;
+  border-style: groove;
+}*/
+/*span:nth-of-type(n):active + span:nth-of-type(n+1):hover {
+  border-color: brown ;
+  border-width: 45px;
+  border-style: groove;
+}*/
+/*span:active ~ span:hover {
+  background-image: url(image_ball.jpg);
+}*/
+li, span > span {
+  display: inline-block;
+  background-color: blue;
+  background-color: transparent;
+  min-width: 100px;
+  min-height: 100px;
+  overflow: visible;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /*overflow: visible;*/
+}
+span span:first-of-type {
+  /*border-color: brown !important;*/
+  background-image: url(image_ball.jpg);
+  /*border-width: 45px !important;
+  border-style: groove !important;*/
+}
+span span:nth-of-type(1):active:not(:hover) {
+  background-image: none;
+}
+/*li:active ~ li:hover, */span span:first-of-type:active ~ span:hover {
+  /*border-color: brown !important;*/
+  background-image: url(image_ball.jpg);
+  /*border-width: 45px !important;
+  border-style: groove !important;*/
+}
+span:last-child {
+  /*display: inline-block;*/
+  background-image: url(image_ball.jpg);
+  transition-property: transform;
+  transition-duration: 0.5s;
+}
+span:last-child:active:hover {
+  transform:translate(350px);
+}

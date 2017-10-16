@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+  <title>
+    Positioning
+  </title>
+
+  <style>
+    body {
+      font-size: 26px;
+    }
+    #top-header {
+      top: 5px;
+      left: 0px;
+      right: 0px;
+      /*height: 75px;*/
+      background-color: indigo;
+      opacity: 0.75;
+      color: white;
+      text-align: center;
+      font-size: 34pt;
+    }
+    #top-header:hover {
+      cursor: pointer;
+    }
+    #absolute {
+      background-color: violet;
+    }
+    .absolute {
+      background-color: blue;
+    }
+    .relative {
+      background-color: brown;
+    }
+    .fixed {
+      background-color: transparent;
+      /*pink;*/
+    }
+    .sticky {
+      background-color: orange;
+    }
+    .static {
+      background-color: yellow;
+    }
+    #absolute-a {
+      /*height: 150px;*/
+    }
+    .absolute {
+      position: absolute;
+      left: 15px;
+      right: 15px; /* set together with unsetting width %/px */
+      top: 300px;
+      bottom: 0px; /* set together with unsetting height %/px */
+      /*width: 75px;*/
+      height: 75px;
+    }
+    .absolute:active {
+      top: 250px;
+      transition: top 1s 1.5s;
+    }
+    #absolute {
+      position: absolute;
+      height: 500px;
+      width: 750px; /*put specific values for height, width; */
+      /*height: auto;
+      width: auto;*/ /* fit the contents */
+      /*top: 0px;
+      bottom: 0px;*/ /* leave height, width as auto; fill all the page*/
+      height: 90%;
+      width: 60%;
+
+      /*background-color: violet;*/
+
+      left: 300px;
+      left: 40%;
+      top: 150px;
+      top: 30%;
+
+      /*
+      Except for the case just described of absolutely positioned elements filling the available space:
+
+If both top and bottom are specified (technically, not auto), top wins.
+If both left and right are specified, left wins when direction is ltr (English, horizontal Japanese, etc.) and right wins when direction is rtl (Persian, Arabic, Hebrew, etc.).
+*/
+      /*z-index: 1;*/
+
+      /*
+      relative
+The element is positioned according to the normal flow of the document, and then offset relative to itself based on the values of top, right, bottom, and left. The offset does not affect the position of any other elements; thus, the space given for the element in the page layout is the same as if position were static. This value creates a new stacking context when the value of z-index is not auto. The effect of relative on table-*-group, table-row, table-column, table-cell, and table-caption elements is undefined.
+      */
+      /* stacking context */
+
+      /* opacity: 1;*/
+    }
+    #absolute:active {
+      top: 35%;
+      transition: top 1.5s;
+    }
+    .relative {
+      position: relative;
+      height: 150px;
+      width: 150px;
+      /*background-color: brown;*/
+
+      left: 50px;
+      left: 10%;
+      top: 65px;
+      top: 10%;
+    }
+    .relative:active {
+      top: 20%;
+      transition: top 1s 1.5s;
+    }
+    .sticky {
+      top: 25px;
+      position: sticky;
+    }
+    .fixed {
+      top: 25px;
+      right: 25px; /*if left here, would not be overwritten by right in precedent selector */
+      position: fixed;
+    }
+    .fixed:hover {
+      top: auto;
+      /*bottom: auto;
+      right: auto;*/
+      transition: top 1s;
+      /*transition: bottom 1s;
+      transition: right 1s;*/
+    }
+    #bottom-footer {
+      bottom: 5px;
+      top: auto;
+      right: 5px;
+      width: 150px;
+      height: 175px;
+      background-color: transparent;
+      opacity: 0.25;
+      color: white;
+      text-align: left;
+      border-color: black ;
+      border-width: 2px;
+      border-style: solid;
+      font-size: 14pt;
+    }
+    .relative > .absolute:active {
+      transition: top 1s 2.5s;
+    }
+    #bottom-footer:hover {
+      bottom: auto;
+      transition: bottom 1s;
+    }
+    #road {
+      position: relative;
+      /*left: 440px;*/
+    }
+    img {
+      width: 200px;
+      /*height: auto;*/
+    }
+  </style>
+  <!-- cover percents -->
+
+</head>
+<body>
+  <div id="top-header" name="header" class="fixed">Press to hang up
+    <!-- <img src="http://en.es-static.us/upl/2016/06/sunset-phoenix-AZ-6-20-2016-solstice-Niccole-Kowalski-sq.jpg"></img> -->
+  </div>
+  <div id="absolute">
+    absolute contain
+    <!-- <div id="road"><img src="https://static.pexels.com/photos/63324/california-road-highway-mountains-63324.jpeg"></img></div> -->
+    <div class="relative">relative
+      <div id="absolute-2" class="absolute">absolute 2</div>
+    </div>
+    <div id="absolute-a" class="absolute">absolute</div>
+    <div class="fixed">fixed</div>
+    <!-- <div class="sticky_">sticky</div>
+    <div class="fixed_">fixed</div>
+    <div class="static_">static</div> -->
+  </div>
+  <div id="bottom-footer" name="footer" class="fixed">chat</div>
+</body>
+</html>

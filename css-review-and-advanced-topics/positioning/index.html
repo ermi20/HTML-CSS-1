@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+  <title>
+    Positioning
+  </title>
+
+  <style>
+    body {
+      font-size: 26px;
+    }
+    .absolute {
+      background-color: blue;
+    }
+    .relative {
+      background-color: brown;
+    }
+    .fixed {
+      background-color: pink;
+    }
+    .sticky {
+      background-color: orange;
+    }
+    .static {
+      background-color: yellow;
+    }
+    div > .absolute {
+      position: absolute;
+    }
+    .relative {
+      position: relative;
+      height: 150px;
+      width: 150px;
+      background-color: brown;
+
+      left: 50px;
+      left: 40%;
+      top: 50px;
+      top: 20%;
+    }
+  </style>
+  <!-- cover percents -->
+
+</head>
+<body>
+  <div class="absolute">
+    absolute
+    <div class="relative">relative</div>
+    <div class="absolute_">absolute</div>
+    <div class="fixed_">fixed</div>
+    <div class="sticky_">sticky</div>
+    <div class="fixed_">fixed</div>
+    <div class="static_">static</div>
+  </div>
